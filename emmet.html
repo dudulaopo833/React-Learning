@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+</head>
+<body>
+	<!-- ul>li*5  generation-->
+	<ul>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+	</ul>
+
+	<!-- div+p+bq brother -->
+	<div></div>
+	<p></p>
+	<blockquote></blockquote>
+
+	<!-- jump to one level div+div>p>span+em^bq -->
+	<div></div>
+	<div>
+		<p><span></span><em></em></p>
+		<blockquote></blockquote>
+	</div>
+
+	<!-- jump to two levels div+div>p>span+em^^bq -->
+	<div></div>
+	<div>
+		<p><span></span><em></em></p>
+	</div>
+	<blockquote></blockquote>
+
+	<!-- group using () div>(header>ul>li*2>a)+footer>p -->
+	<div>
+		<header>
+			<ul>
+				<li><a href=""></a></li>
+				<li><a href=""></a></li>
+			</ul>
+		</header>
+		<footer>
+			<p></p>
+		</footer>
+	</div>
+
+	<!-- group using () (div>dl>(dt+dd)*3)+footer>p -->
+	<div>
+		<dl>
+			<dt></dt>
+			<dd></dd>
+			<dt></dt>
+			<dd></dd>
+			<dt></dt>
+			<dd></dd>
+		</dl>
+	</div>
+	<footer>
+		<p></p>
+	</footer>
+
+	<!-- self increase use $ ul>li.item$*2  .className #id -->
+	<ul>
+		<li class="item1"></li>
+		<li class="item2"></li>
+	</ul>
+	<div id="almaID"></div>
+	<form action="" id="almaFID" class="almaClass"></form>
+	<div class="class1 class2 class3"></div>
+
+	<!-- h$[title=item$]{Alma$}*3 attribute is using [], Text is using {} -->
+	<h1 title="item1">Alma1</h1>
+	<h2 title="item2">Alma2</h2>
+	<h3 title="item3">Alma3</h3>
+	<!-- td[rowspan=2 colspan=3 title] -->
+	<td rowspan="2" colspan="3" title=""></td>
+
+	<!-- ul>li.item$$$*2 -->
+	<ul>
+		<li class="item001"></li>
+		<li class="item002"></li>
+	</ul>
+
+	<!-- decrease use $@- ul>li.item$@-*4 -->
+	<ul>
+		<li class="item4"></li>
+		<li class="item3"></li>
+		<li class="item2"></li>
+		<li class="item1"></li>
+	</ul>
+	<!-- ! to fast create a html temple -->
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Document</title>
+	</head>
+	<body>
+		
+	</body>
+	</html>
+
+	<!-- link:css  link-->
+	<link rel="stylesheet" href="">
+	<link rel="stylesheet" href="style.css">
+
+	<!-- script:src -->
+	<script src=""></script>
+</body>
+</html>

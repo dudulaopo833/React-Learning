@@ -19,13 +19,13 @@ class Toggle extends React.Component{
     e.stopPropagation();
   }
   
-  render(){
+  /*render(){
     return (
       <button onClick={this.clickHandler}> 
         {this.state.isToggle ? "ON" : "OFF"}
       </button>
     );
-  }
+  }*/
   
   render(){//Way 2 use arrow function to bind
     return(

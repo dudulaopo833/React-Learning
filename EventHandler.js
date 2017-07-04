@@ -6,7 +6,7 @@ class Toggle extends React.Component{
     }
     
     // This binding is necessary to make `this` work in the callback - Way 1
-    //this.clickHandler = this.clickHandler.bind(this);
+    //this.clickHandler = this.clickHandler.bind(this); //this.xx = this.xxx.bind(this);
   }
   
   clickHandler(e){

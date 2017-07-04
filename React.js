@@ -11,10 +11,10 @@ class Clock extends React.Component {//class extends
   }
   
   render(){
-    return (
+    return ( //() for multiple html
       <div>
         <h1> Hello, React </h1>
-        <div>{this.state.time.toLocaleTimeString()}</div>
+        <div>{this.state.time.toLocaleTimeString()}</div> //{} for js code in html
       </div>
     );
   }

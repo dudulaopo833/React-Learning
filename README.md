@@ -4,7 +4,7 @@ style = {{fontSize: '2px'msTransform : 'rotate(30deg)',}}
 2. React 的class 需要用className
 
 # React - https://facebook.github.io/react/ 
- > Redux - http://redux.js.org/ or http://cn.redux.js.org/docs/introduction/Ecosystem.html or https://github.com/xgrommx/awesome-redux     
+ > Redux - http://redux.js.org/ or http://cn.redux.js.org/index.html or https://github.com/xgrommx/awesome-redux     
  > Router - http://react-guide.github.io/react-router-cn/    
  > prop-types - https://facebook.github.io/react/docs/typechecking-with-proptypes.html    
  > react-intel - https://github.com/yahoo/react-intl --> 支持多语言      

@@ -22,7 +22,8 @@ style = {{fontSize: '2px'msTransform : 'rotate(30deg)',}}
 * redux-saga - http://leonshi.com/redux-saga-in-chinese/ --> redux-saga 是一个用于管理 Redux 应用异步操作的中间件，可以替代redux-thunk
 * axios - https://www.npmjs.com/package/axios --> Promise based HTTP client for the browser and node.js
 * history -     
-* http-server -     
+* http-server -   
+* remote-redux-devtools - https://github.com/zalmoxisus/remote-redux-devtools
  
 
 

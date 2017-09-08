@@ -3,6 +3,14 @@ style = {{fontSize: '2px'msTransform : 'rotate(30deg)',}}
 
 2. React 的class 需要用className
 
+# React 相关中文文档：
+* React - https://chenyitian.gitbooks.io/react-docs/content/
+* React LifeCycle - https://hulufei.gitbooks.io/react-tutorial/component-lifecycle.html
+* React Router - https://react-guide.github.io/react-router-cn/
+* React Redux - http://cn.redux.js.org/docs/api/Store.html
+* Redux Saga - http://leonshi.com/redux-saga-in-chinese/docs/introduction/BeginnerTutorial.html
+
+
 # React - https://facebook.github.io/react/ 
  > Redux - http://redux.js.org/ or http://cn.redux.js.org/index.html or https://github.com/xgrommx/awesome-redux     
  > Router - http://react-guide.github.io/react-router-cn/    
@@ -15,6 +23,7 @@ style = {{fontSize: '2px'msTransform : 'rotate(30deg)',}}
  > react-router-redux -     
  > history -     
  > http-server -     
+ 
 
 
 

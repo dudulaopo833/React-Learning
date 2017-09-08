@@ -12,17 +12,17 @@ style = {{fontSize: '2px'msTransform : 'rotate(30deg)',}}
 
 
 # React - https://facebook.github.io/react/ 
- > Redux - http://redux.js.org/ or http://cn.redux.js.org/index.html or https://github.com/xgrommx/awesome-redux     
- > Router - http://react-guide.github.io/react-router-cn/    
- > prop-types - https://facebook.github.io/react/docs/typechecking-with-proptypes.html    
- > react-intel - https://github.com/yahoo/react-intl --> 支持多语言      
- > classNames - https://www.npmjs.com/package/classnames 
- > react-axe -  https://github.com/dequelabs/react-axe --> accessibility   
- > redux-saga - http://leonshi.com/redux-saga-in-chinese/ --> redux-saga 是一个用于管理 Redux 应用异步操作的中间件，可以替代redux-thunk
- > axios - https://www.npmjs.com/package/axios --> Promise based HTTP client for the browser and node.js
- > react-router-redux -     
- > history -     
- > http-server -     
+* Redux - http://redux.js.org/ or http://cn.redux.js.org/index.html or https://github.com/xgrommx/awesome-redux     
+* Router - http://react-guide.github.io/react-router-cn/  
+* react-router-redux -     
+* prop-types - https://facebook.github.io/react/docs/typechecking-with-proptypes.html    
+* react-intel - https://github.com/yahoo/react-intl --> 支持多语言      
+* classNames - https://www.npmjs.com/package/classnames 
+* react-axe -  https://github.com/dequelabs/react-axe --> accessibility   
+* redux-saga - http://leonshi.com/redux-saga-in-chinese/ --> redux-saga 是一个用于管理 Redux 应用异步操作的中间件，可以替代redux-thunk
+* axios - https://www.npmjs.com/package/axios --> Promise based HTTP client for the browser and node.js
+* history -     
+* http-server -     
  
 
 
